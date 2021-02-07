@@ -1,0 +1,9 @@
+.idea
+.assets
+.mongo
+
+node_modules
+
+yarn.lock
+
+package-log.json
